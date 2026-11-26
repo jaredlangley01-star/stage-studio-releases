@@ -1,6 +1,31 @@
 {
   "name": "Stage Studio Updates",
   "subtitle": "Official Stage Studio iOS alpha builds",
-  "apps": [],
-  "news": []
+  "apps": [
+    {
+      "name": "Stage Studio",
+      "bundleIdentifier": "com.stagestudio.mobile",
+      "developerName": "Stage Studio",
+      "localizedDescription": "Native worship keyboard workstation.",
+      "iconURL": "https://raw.githubusercontent.com/jaredlangley01-star/stage-studio-releases/main/icon.png",
+      "versions": [
+        {
+          "version": "0.2",
+          "buildVersion": "5",
+          "date": "2026-11-26T09:40:02.277294+00:00",
+          "downloadURL": "https://github.com/jaredlangley01-star/stage-studio-releases/releases/download/alpha-0.2-5-1/StageStudio.ipa",
+          "size": 85376,
+          "sha256": "59e2c790f71c16c38d6783d3a313e77fca66d7759bb2ed71537540d25bb666f3",
+          "minOSVersion": "16.0",
+          "localizedDescription": "Stage Studio alpha build 5"
+        }
+      ],
+      "appPermissions": {
+        "entitlements": [],
+        "privacy": {}
+      }
+    }
+  ],
+  "news": [],
+  "iconURL": "https://raw.githubusercontent.com/jaredlangley01-star/stage-studio-releases/main/icon.png"
 }
