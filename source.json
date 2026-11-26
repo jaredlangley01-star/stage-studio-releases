@@ -10,6 +10,16 @@
       "iconURL": "https://raw.githubusercontent.com/jaredlangley01-star/stage-studio-releases/main/icon.png",
       "versions": [
         {
+          "version": "0.7.0",
+          "buildVersion": "18",
+          "date": "2026-11-26T16:15:32Z",
+          "downloadURL": "https://github.com/jaredlangley01-star/stage-studio-releases/releases/download/alpha-0.7.0-18-1/StageStudio-0.7.0-build-18.ipa",
+          "size": 29580007,
+          "sha256": "a2ab05687bf5047494a29fd603aaba26f76e6c793b9c22bafec30ce9c861e3f7",
+          "minOSVersion": "16.0",
+          "localizedDescription": "Stage Studio alpha build 18"
+        },
+        {
           "version": "0.6.0",
           "buildVersion": "15",
           "date": "2026-11-26T16:01:12Z",
